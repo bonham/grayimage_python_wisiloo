@@ -1,4 +1,4 @@
-from boildown import projectRGB, bit, arrayProjection
+from boildown import projectRGB, bit
 from operator import xor
 import numpy as np
 
